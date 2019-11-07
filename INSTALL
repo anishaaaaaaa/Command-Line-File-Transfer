@@ -1,0 +1,7 @@
+compiler
+========
+$ make
+
+install
+========
+$ make install (as root)
