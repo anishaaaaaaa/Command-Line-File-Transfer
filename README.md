@@ -4,9 +4,13 @@ TE COMPS Batch "E" Group - 2
 Swati Bamble - 2018230066
 
 Palak Davda - 2018230068
+
 Divya Gavandi - 2018230070
+
 Anisha Gharat - 2018230071
+
 Leena Shinde - 2018230076
+
 Tejashri Wagh - 2018230077
 
 Command Line Tool for File Transfer
